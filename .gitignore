@@ -1,3 +1,4 @@
 /gatsby/node_modules
+/gatsby/public
 /gatsby/.cache
 /sanity/node_modules
